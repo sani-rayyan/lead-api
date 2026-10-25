@@ -5,7 +5,7 @@ A clean, layered REST API for managing leads, built with FastAPI and SQLite.
 ## Features
 
 - Full CRUD (create, read, update, delete)
-- Input validation with pydantic (email format, phone digits only, minimum name length)
+- Input validation with Pydantic (email format, phone digits only, minimum name length)
 - Layered structure: routes, CRUD logic, schemas, database
 
 ## Setup
